@@ -1,0 +1,131 @@
+
+.nav-bar{
+  height: 58px;
+  background-color: ;
+  max-width: 960px;
+  box-sizing: border-box;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  box-shadow: 3px #eee;
+}
+.logo-garena{
+  padding: 0 30px;
+
+}
+.icon-uid{
+  border-radius: 50%;
+}
+.img-icon{
+  padding-left: 120px;
+}
+.content{
+  padding: 10px;
+  height: 34px;
+  line-height: 34px;
+  display: flex;
+  margin: 8px 0 0 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 18px;
+  font-size: 14px;
+  align-items: center;
+  color: #16181a;
+  color: rgba(22,24,26,.8);
+  cursor: pointer;
+}
+.text-uid{
+  padding: 2px;
+}
+section{
+  background-color: #fafafa;
+  max-width: 960px;
+}
+.logo-truemoney{
+  padding: 10px;
+}
+.true-money.dtac.true{
+  background-color: #eee;
+  border: 2px #eee;
+}
+
+tr{
+  padding: 10px;
+}
+.list{
+  padding: 10px;
+}
+#btnDisabled{
+  display: block;
+  background: #d43831;
+  color: #fff;
+  border: none;
+  width: 180px;
+  padding: 7px 0;
+  border-radius: 3px;
+  cursor: pointer;
+  -webkit-transition: opacity .3s,background-color .3s;
+  transition: opacity .3s,background-color .3s;
+}
+#inumber{
+    width: 180px;
+    color: #202325;
+    background: transparent;
+    padding: 8px 10px;
+    border: 1px solid #c6c6c6;
+    border-radius: 2px;
+    text-align: left;
+    display: block;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    box-sizing: border-box;
+    height: 34px;
+    -webkit-transition: border-color .3s,background-color .3s;
+    transition: border-color .3s,background-color .3s;
+}
+.box-1{
+  background-color: #eee;
+
+
+}
+.container{
+  text-align: center;
+
+}
+.box-img{
+  margin: 20px;
+  padding: 5px;
+  border: 1px solid #eee;
+  border-radius: 20px;
+}
+input{
+  border: none;
+  padding: 10px;
+}
+.form{
+  margin-left: -100px;
+}
+.btn{
+  margin-left: -50px;
+}
+/*button{
+  margin-right: 200px;
+}*/
+.box-21{
+  margin-left: 140px;
+}
+.icon-ff{
+  border-radius: 50px;
+}
+.box-2{
+
+  display: inline-flex;
+  align-items: center;
+  /*border: 1px solid #eee;
+  border-radius: 15px;*/
+  padding: 5px;
+
+}
+.text{
+  margin-left: 220px;
+}
